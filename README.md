@@ -5,6 +5,7 @@ A flutter app with basic features like
 - Password reset funtionality
 - Theme changing
 - loading widget
+
 where the user can
 - login, sign up, logout
 - view and update their profile
